@@ -1,4 +1,7 @@
 [app]
+
+source.dir = .
+
 # (str) Title of your application
 title = ClipboardShare
 
